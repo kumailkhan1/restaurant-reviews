@@ -23,7 +23,7 @@ navigator.geolocation.getCurrentPosition(function (location) {
     id: 'mapbox/streets-v11',
     tileSize: 512,
     zoomOffset: -1,
-    accessToken: 'sk.eyJ1Ijoic2hhcnAwMDciLCJhIjoiY2toYTY3Y2g5MGNiMTJ0dGl6ZmVmZnh4NCJ9.-jAhUA3jpquXEpBdg71QFA'
+    accessToken: ''
   }).addTo(mymap);
 
   var marker = L.marker(latlng).addTo(mymap);
