@@ -1,0 +1,114 @@
+[
+    {
+        "id": 0,
+        "restaurantName": "Roasters: Coffee House & Grill",
+        "description": "Tiny pizzeria next to Sacre Coeur! Serving Pakistani and International cuisines.",
+        "address": "De One Plaza, Spring North, Phase 7 Bahria Town, Rawalpindi, Islamabad Capital Territory",
+        "lat": 33.7115278,
+        "long": 72.9216343,
+        "avgRating": 4.666666666666667,
+        "imgUrl": "./rest1.jpeg",
+        "ratings": [
+            {
+                "stars": 4,
+                "comment": "Great! But not many veggie options."
+            },
+            {
+                "stars": 5,
+                "comment": "WOW!!"
+            },
+            {
+                "stars": 5,
+                "comment": "TOTALLY LOVED IT!"
+            },
+            {
+                "stars": 4,
+                "comment": "asfasf"
+            },
+            {
+                "stars": 5,
+                "comment": "Awesom experience!"
+            },
+            {
+                "stars": 5,
+                "comment": "testin3333"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "restaurantName": "Kallisto",
+        "description": "Trained from the customs of local and international cuisines and also decades of expertise, our chefs bring their own unique sensibilities.",
+        "address": "Bahria Spring North، Shaheen Chowk، Phase 7 Bahria Town Intellectual Village, Rawalpindi, Islamabad Capital Territory, Pakistan",
+        "lat": 33.5256468,
+        "long": 73.0903706,
+        "avgRating": 4.5,
+        "imgUrl": "./rest1.jpeg",
+        "ratings": [
+            {
+                "stars": 5,
+                "comment": "Tiny pizzeria next to Sacre Coeur!"
+            },
+            {
+                "stars": 4,
+                "comment": "Amazing"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "restaurantName": "Biryani Bistro",
+        "description": "Trained from the customs of local and international cuisines and also decades of expertise, our chefs bring their own unique sensibilities.",
+        "address": "Block 12, DHA Business Bay, near Shaheen Chowk, Sector F Bahria Phase 7, Rawalpindi, Islamabad Capital Territory, Pakistan",
+        "lat": 33.5223196,
+        "long": 73.0880532,
+        "avgRating": 3,
+        "imgUrl": "./rest1.jpeg",
+        "ratings": [
+            {
+                "stars": 3,
+                "comment": "Meh, it was fine."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "restaurantName": "Tandoori Nights",
+        "description": "Trained from the customs of local and international cuisines and also decades of expertise, our chefs bring their own unique sensibilities.",
+        "address": "Block 5 , DHA , Business bay , Near Shaheen Chowk Bahria town، Phase 7 Sector F DHA Phase 1, Islamabad, Rawalpindi, Islamabad Capital Territory 46220, Pakistan",
+        "lat": 33.5831269,
+        "long": 73.0308826,
+        "avgRating": 4,
+        "imgUrl": "./rest1.jpeg",
+        "ratings": [
+            {
+                "stars": 4,
+                "comment": "Best place for asian food!!"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "restaurantName": "Slider Zone",
+        "description": "Trained from the customs of local and international cuisines and also decades of expertise, our chefs bring their own unique sensibilities.",
+        "address": "Bahria، Food St, near Green Valley، Rawalpindi, Islamabad Capital Territory 46000, Pakistan",
+        "lat": 33.5302246,
+        "long": 73.0967421,
+        "avgRating": 4,
+        "imgUrl": "./rest1.jpeg",
+        "ratings": [
+            {
+                "stars": 3,
+                "comment": "Meh, it was fine."
+            },
+            {
+                "stars": 5,
+                "comment": "Okayish.."
+            },
+            {
+                "stars": 4,
+                "comment": "Presentation"
+            }
+        ]
+    }
+]

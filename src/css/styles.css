@@ -1,0 +1,102 @@
+@font-face {
+    font-family: Raleway;
+    src: url("./../../Raleway.ttf");
+    font-weight: bolder;
+}
+
+body {
+    font-family: Raleway;
+}
+
+.header{
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: 20px;
+    background-color: #14274e;
+    margin-top: 5px;
+    margin-bottom: 25px;
+    box-shadow: 1px 6px 8px 0px #888;
+}
+
+#map{
+    box-shadow: -4px 5px 11px 0px #888;
+}
+
+#restaurants {
+    width: 100%;
+    height: 500px;
+    box-shadow: -4px 6px 7px 0px #888;
+    background-color: #394867;
+    color: white;
+    padding: 0;
+    overflow: scroll;
+    
+}
+
+#restaurants-heading {
+    background-color: #14274e;
+    width: 100%;
+    padding: 10px;
+
+}
+
+.media{
+    padding: 5px;
+}
+#map {
+    height: 500px;
+}
+.restaurants-row img{
+    width:100px;
+    height:100px;
+    float:left;
+}
+
+.restaurants-row button{
+    margin:auto;
+    
+}
+
+.avgRating{
+    border: 1px #f1f6f9 solid;
+    padding: 2px;
+    width: 50%;
+}
+
+.leaflet-popup-content-wrapper{
+    width: auto;
+}
+
+a.review{
+    color:#14274e;
+    background-color: aliceblue;
+    padding:3px;
+    
+    
+}
+a.review:hover{
+    text-decoration: underline;
+
+}
+
+.restaurant-title{
+    font-weight: bold;
+}
+
+.list-group-item{
+    background-color: aliceblue;
+    color:black;
+
+}
+.list-group-item:before{
+    content: '\1F95E';
+    margin: 1px;
+}
+ul.list-unstyled{
+    padding: 10px;
+}
+
+hr{
+    border-top: 2px dashed #f1f6f9;
+}
